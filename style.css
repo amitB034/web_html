@@ -1,0 +1,29 @@
+
+.bg-img{
+    background: url("https://discoverjapan-web.com/wp-content/uploads/2020/08/90_main.jpg") 
+                no-repeat ;
+    background-size: cover;
+}
+
+.title1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Sawarabi Mincho";
+    font-size:120px;
+    
+    /*-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: lightgreen;a*/
+}
+
+#index{
+    display: flex;
+    justify-content: center;
+
+
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+}
+
